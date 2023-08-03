@@ -1,5 +1,7 @@
 ### Olá, sou Dério Oliveira 
 
+Sou um estudante de Engenharia Eletrônica e estou em busca de aprender a aprofundar meu conhecimento em programação.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerioEle&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
